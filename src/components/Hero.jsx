@@ -85,7 +85,7 @@ const ColumnRight = styled.div`
   }
 `;
 
-export default function(){
+export default function Hero(){
     return (
         <Section>
             <Container>
