@@ -11,17 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8eab077-91df-43fc-9e73-da8965157e1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/planet-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/planet-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/planet-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/planet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pirple/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pirple/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pirple/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pirple/main4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pirple/main5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pirple/main6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonLearning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section 5/appending_to_a_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 5/appending_to_a_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +35,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="223xlDqKT2mdllfNF7OmedxbdmU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,6 +68,8 @@
       <workItem from="1639080221509" duration="625000" />
       <workItem from="1639080866433" duration="35000" />
       <workItem from="1639080914926" duration="2586000" />
+      <workItem from="1639084016519" duration="184000" />
+      <workItem from="1639084313104" duration="53000" />
     </task>
     <servers />
   </component>
